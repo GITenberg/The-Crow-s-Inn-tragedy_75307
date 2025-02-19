@@ -1,0 +1,25 @@
+_repo: The-Crow-s-Inn-tragedy_75307
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haynes, Annie
+    gutenberg_agent_id: '57937'
+    url: http://www.gutenberg.org/2009/agents/57937
+description: ''
+gutenberg_issued: '2025-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75307'
+language: en
+pgterms:marc905: 20240216164123haynes
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Brian Raiter
+publication_note: '  $aNew York, NY :$bDodd, Mead & Company, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Crow's Inn tragedy
+url: http://www.gutenberg.org/ebooks/75307
