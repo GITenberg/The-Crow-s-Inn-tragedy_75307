@@ -1,11 +1,16 @@
 _repo: The-Crow-s-Inn-tragedy_75307
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75307-h/images/cover.jpg
 creator:
   author:
     agent_name: Haynes, Annie
     gutenberg_agent_id: '57937'
     url: http://www.gutenberg.org/2009/agents/57937
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75307#The-Crow-s-Inn-tragedy
 gutenberg_issued: '2025-02-07'
 gutenberg_type: Text
 identifiers:
